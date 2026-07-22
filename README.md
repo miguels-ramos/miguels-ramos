@@ -1,6 +1,6 @@
 # Olá, eu sou o Miguel! 👋
 
-Atualmente, sou estudante do 4º **Análise e Desenvolvimento de Sistemas (ADS)** no Centro Universitário FAM. Tenho experiência com monitoramento operacional, análise de dados e métricas, e estou em transição para a área de tecnologia com foco em **Python**, **SQL** e **Análise de Dados**.
+Atualmente, sou estudante do 4º semestre de **Análise e Desenvolvimento de Sistemas (ADS)** no Centro Universitário FAM. Tenho experiência com monitoramento operacional, análise de dados e métricas, e estou em transição para a área de tecnologia com foco em **Python**, **SQL** e **Análise de Dados**.
 
 ---
 
